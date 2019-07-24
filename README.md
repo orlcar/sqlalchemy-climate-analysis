@@ -25,7 +25,7 @@ import datetime as dt
 from datetime import timedelta, date
 ```
 
-# Reflect Tables into SQLAlchemy ORM
+### Reflect Tables into SQLAlchemy ORM
 
 
 ```python
@@ -110,7 +110,7 @@ for c in columns_station:
     elevation FLOAT
     
 
-# Exploratory Climate Analysis
+### Exploratory Climate Analysis
 
 
 ```python
@@ -154,19 +154,6 @@ precipitation_df.describe()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -458,7 +445,7 @@ trip_dates_precipitation
 
 
 
-# Daily Normals
+### Daily Normals
 
 
 ```python
@@ -555,19 +542,6 @@ trip_prcp_df
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
