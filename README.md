@@ -1,6 +1,6 @@
 # Climate Analysis
 
-In this project, Python and SQLAlchemy were used to analyze the climate in Hawaii in order to plan a long holiday vacation in Honolulu, Hawaii.  A Flask API 
+In this project, Pandas, Matplotlib, and SQLAlchemy were used to analyze the climate in Hawaii in order to plan a long holiday vacation in Honolulu, Hawaii.  A Flask API 
 was created based on the queries used for climate analysis and data exploration of the climate database.
 
 
